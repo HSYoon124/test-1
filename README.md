@@ -54,3 +54,4 @@ origin연결
 [내 깃허브](https://github.com/HSYoon124)
 
 # 이미지 추가
+![프로필이미지](./XL.jpeg)
